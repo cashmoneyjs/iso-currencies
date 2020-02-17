@@ -1,0 +1,37 @@
+{
+    "name": "@cashmoney/iso-currencies",
+    "description": "Data package providing ISO currency information.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": "Matthew Gamble <git@matthewgamble.net>",
+    "devDependencies": {
+        "@types/xml2js": "^0.4.5",
+        "alsatian": "^3.2.1",
+        "axios": "^0.19.2",
+        "ts-node": "^8.6.2",
+        "tsconfig-paths": "^3.9.0",
+        "typescript": "^3.7.5",
+        "xml2js": "^0.4.23"
+    },
+    "scripts": {
+        "fetch-update": "ts-node bin/fetch-update.ts"
+    },
+    "files": [
+        "resources/*.js",
+        "resources/*.json"
+    ],
+    "sideEffects": false,
+    "homepage": "https://github.com/cashmoneyjs/iso-currencies",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cashmoneyjs/iso-currencies.git"
+    },
+    "keywords": [
+        "cashmoney",
+        "money",
+        "currency",
+        "iso",
+        "iso4217",
+        "currencies"
+    ]
+}
