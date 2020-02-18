@@ -65,3 +65,10 @@ historic.json
 ## Development notes
 
 To prepare a new update, run ``yarn run fetch-update`` in the root of the repository.
+
+## Acknowledgements
+
+The setup of this repository is inspired by the matching package in the MoneyPHP
+organisation:
+
+https://github.com/moneyphp/iso-currencies
