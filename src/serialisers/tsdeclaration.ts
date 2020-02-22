@@ -1,5 +1,5 @@
-import Serialiser from "../serialiser";
-import { CurrencyDataMap } from "../currencydata";
+import type Serialiser from "../serialiser";
+import type { CurrencyDataMap } from "../currencydata";
 
 const interfaceCode = `interface CurrencyData {
     alphabeticCode: string;
@@ -12,7 +12,9 @@ export default class TsDeclarationSerialiser implements Serialiser {
     public serialise(data: CurrencyDataMap): string {
         let formattedData = interfaceCode + "\n\n";
 
-        for (const currencyCode of Object.keys(data)) {
+        const currencyCodes = Object.keys(data);
+        currencyCodes.sort();
+        for (const currencyCode of currencyCodes) {
             formattedData += `export declare var ${currencyCode}: CurrencyData;` + "\n";
         }
 

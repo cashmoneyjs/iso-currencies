@@ -1,14 +1,16 @@
 import { inspect } from "util";
 
-import Serialiser from "../serialiser";
-import { CurrencyData, CurrencyDataMap } from "../currencydata";
+import type Serialiser from "../serialiser";
+import type { CurrencyData, CurrencyDataMap } from "../currencydata";
 
 export default class EsModuleSerialiser implements Serialiser {
     public serialise(data: CurrencyDataMap): string {
         let formattedData = "Object.defineProperty(exports, '__esModule', { value: true });\n";
 
-        for (const currency of Object.values(data)) {
-            formattedData += this.prepareCurrency(currency);
+        const currencyCodes = Object.keys(data);
+        currencyCodes.sort();
+        for (const currencyCode of currencyCodes) {
+            formattedData += this.prepareCurrency(data[currencyCode]);
         }
 
         return formattedData;

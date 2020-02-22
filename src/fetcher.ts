@@ -4,8 +4,8 @@ import { promisify } from "util";
 import axios from "axios";
 import xml2js from "xml2js";
 
-import { CurrencyData, CurrencyDataMap } from "./currencydata";
-import Serialiser from "./serialiser";
+import type { CurrencyData, CurrencyDataMap } from "./currencydata";
+import type Serialiser from "./serialiser";
 
 const writeFile = promisify(fs.writeFile);
 
@@ -68,7 +68,7 @@ export default class Fetcher {
         });
 
         this.currentCurrencies = {};
-        for await (const currency of this.formatCurrencies(data.ISO_4217.CcyTbl.CcyNtry)) {
+        for (const currency of this.formatCurrencies(data.ISO_4217.CcyTbl.CcyNtry)) {
             this.currentCurrencies[currency.alphabeticCode] = currency;
         }
     }
@@ -85,12 +85,12 @@ export default class Fetcher {
         });
 
         this.historicCurrencies = {};
-        for await (const currency of this.formatCurrencies(data.ISO_4217.HstrcCcyTbl.HstrcCcyNtry)) {
+        for (const currency of this.formatCurrencies(data.ISO_4217.HstrcCcyTbl.HstrcCcyNtry)) {
             this.historicCurrencies[currency.alphabeticCode] = currency;
         }
     }
 
-    private async *formatCurrencies(data: any[]): AsyncGenerator<CurrencyData> {
+    private *formatCurrencies(data: any[]): Generator<CurrencyData> {
         for (const datum of data) {
             yield {
                 alphabeticCode: datum.Ccy,
