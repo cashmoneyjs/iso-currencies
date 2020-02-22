@@ -1811,9 +1811,3 @@ module.exports.ZWR = {
   minorUnit: NaN,
   numericCode: 935
 };
-module.exports.undefined = {
-  alphabeticCode: undefined,
-  currency: 'No universal currency',
-  minorUnit: NaN,
-  numericCode: NaN
-};

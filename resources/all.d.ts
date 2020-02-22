@@ -307,4 +307,3 @@ export declare var ZWD: CurrencyData;
 export declare var ZWL: CurrencyData;
 export declare var ZWN: CurrencyData;
 export declare var ZWR: CurrencyData;
-export declare var undefined: CurrencyData;

@@ -184,4 +184,3 @@ export declare var YER: CurrencyData;
 export declare var ZAR: CurrencyData;
 export declare var ZMW: CurrencyData;
 export declare var ZWL: CurrencyData;
-export declare var undefined: CurrencyData;

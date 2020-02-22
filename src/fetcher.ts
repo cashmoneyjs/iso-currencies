@@ -92,6 +92,10 @@ export default class Fetcher {
 
     private *formatCurrencies(data: any[]): Generator<CurrencyData> {
         for (const datum of data) {
+            if (!datum.Ccy) {
+                continue;
+            }
+
             yield {
                 alphabeticCode: datum.Ccy,
                 currency: datum.CcyNm,

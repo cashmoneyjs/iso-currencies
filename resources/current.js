@@ -1073,9 +1073,3 @@ module.exports.ZWL = {
   minorUnit: 2,
   numericCode: 932
 };
-module.exports.undefined = {
-  alphabeticCode: undefined,
-  currency: 'No universal currency',
-  minorUnit: NaN,
-  numericCode: NaN
-};
