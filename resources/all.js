@@ -2,7 +2,7 @@ Object.defineProperty(exports, '__esModule', { value: true });
 module.exports.ADP = {
   alphabeticCode: 'ADP',
   currency: 'Andorran Peseta',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 20
 };
 module.exports.AED = {
@@ -14,7 +14,7 @@ module.exports.AED = {
 module.exports.AFA = {
   alphabeticCode: 'AFA',
   currency: 'Afghani',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 4
 };
 module.exports.AFN = {
@@ -26,7 +26,7 @@ module.exports.AFN = {
 module.exports.ALK = {
   alphabeticCode: 'ALK',
   currency: 'Old Lek',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 8
 };
 module.exports.ALL = {
@@ -56,31 +56,31 @@ module.exports.AOA = {
 module.exports.AOK = {
   alphabeticCode: 'AOK',
   currency: 'Kwanza',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 24
 };
 module.exports.AON = {
   alphabeticCode: 'AON',
   currency: 'New Kwanza',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 24
 };
 module.exports.AOR = {
   alphabeticCode: 'AOR',
   currency: 'Kwanza Reajustado',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 982
 };
 module.exports.ARA = {
   alphabeticCode: 'ARA',
   currency: 'Austral',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 32
 };
 module.exports.ARP = {
   alphabeticCode: 'ARP',
   currency: 'Peso Argentino',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 32
 };
 module.exports.ARS = {
@@ -92,13 +92,13 @@ module.exports.ARS = {
 module.exports.ARY = {
   alphabeticCode: 'ARY',
   currency: 'Peso',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 32
 };
 module.exports.ATS = {
   alphabeticCode: 'ATS',
   currency: 'Schilling',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 40
 };
 module.exports.AUD = {
@@ -116,13 +116,13 @@ module.exports.AWG = {
 module.exports.AYM = {
   alphabeticCode: 'AYM',
   currency: 'Azerbaijan Manat',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 945
 };
 module.exports.AZM = {
   alphabeticCode: 'AZM',
   currency: 'Azerbaijanian Manat',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 31
 };
 module.exports.AZN = {
@@ -134,7 +134,7 @@ module.exports.AZN = {
 module.exports.BAD = {
   alphabeticCode: 'BAD',
   currency: 'Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 70
 };
 module.exports.BAM = {
@@ -158,37 +158,37 @@ module.exports.BDT = {
 module.exports.BEC = {
   alphabeticCode: 'BEC',
   currency: 'Convertible Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 993
 };
 module.exports.BEF = {
   alphabeticCode: 'BEF',
   currency: 'Belgian Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 56
 };
 module.exports.BEL = {
   alphabeticCode: 'BEL',
   currency: 'Financial Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 992
 };
 module.exports.BGJ = {
   alphabeticCode: 'BGJ',
   currency: 'Lev A/52',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 100
 };
 module.exports.BGK = {
   alphabeticCode: 'BGK',
   currency: 'Lev A/62',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 100
 };
 module.exports.BGL = {
   alphabeticCode: 'BGL',
   currency: 'Lev',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 100
 };
 module.exports.BGN = {
@@ -230,7 +230,7 @@ module.exports.BOB = {
 module.exports.BOP = {
   alphabeticCode: 'BOP',
   currency: 'Peso boliviano',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 68
 };
 module.exports.BOV = {
@@ -242,19 +242,19 @@ module.exports.BOV = {
 module.exports.BRB = {
   alphabeticCode: 'BRB',
   currency: 'Cruzeiro',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 76
 };
 module.exports.BRC = {
   alphabeticCode: 'BRC',
   currency: 'Cruzado',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 76
 };
 module.exports.BRE = {
   alphabeticCode: 'BRE',
   currency: 'Cruzeiro',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 76
 };
 module.exports.BRL = {
@@ -266,13 +266,13 @@ module.exports.BRL = {
 module.exports.BRN = {
   alphabeticCode: 'BRN',
   currency: 'New Cruzado',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 76
 };
 module.exports.BRR = {
   alphabeticCode: 'BRR',
   currency: 'Cruzeiro Real',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 987
 };
 module.exports.BSD = {
@@ -290,7 +290,7 @@ module.exports.BTN = {
 module.exports.BUK = {
   alphabeticCode: 'BUK',
   currency: 'Kyat',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 104
 };
 module.exports.BWP = {
@@ -302,7 +302,7 @@ module.exports.BWP = {
 module.exports.BYB = {
   alphabeticCode: 'BYB',
   currency: 'Belarusian Ruble',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 112
 };
 module.exports.BYN = {
@@ -314,7 +314,7 @@ module.exports.BYN = {
 module.exports.BYR = {
   alphabeticCode: 'BYR',
   currency: 'Belarusian Ruble',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 974
 };
 module.exports.BZD = {
@@ -338,7 +338,7 @@ module.exports.CDF = {
 module.exports.CHC = {
   alphabeticCode: 'CHC',
   currency: 'WIR Franc (for electronic)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 948
 };
 module.exports.CHE = {
@@ -398,19 +398,19 @@ module.exports.CRC = {
 module.exports.CSD = {
   alphabeticCode: 'CSD',
   currency: 'Serbian Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 891
 };
 module.exports.CSJ = {
   alphabeticCode: 'CSJ',
   currency: 'Krona A/53',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 203
 };
 module.exports.CSK = {
   alphabeticCode: 'CSK',
   currency: 'Koruna',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 200
 };
 module.exports.CUC = {
@@ -434,7 +434,7 @@ module.exports.CVE = {
 module.exports.CYP = {
   alphabeticCode: 'CYP',
   currency: 'Cyprus Pound',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 196
 };
 module.exports.CZK = {
@@ -446,13 +446,13 @@ module.exports.CZK = {
 module.exports.DDM = {
   alphabeticCode: 'DDM',
   currency: 'Mark der DDR',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 278
 };
 module.exports.DEM = {
   alphabeticCode: 'DEM',
   currency: 'Deutsche Mark',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 276
 };
 module.exports.DJF = {
@@ -482,19 +482,19 @@ module.exports.DZD = {
 module.exports.ECS = {
   alphabeticCode: 'ECS',
   currency: 'Sucre',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 218
 };
 module.exports.ECV = {
   alphabeticCode: 'ECV',
   currency: 'Unidad de Valor Constante (UVC)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 983
 };
 module.exports.EEK = {
   alphabeticCode: 'EEK',
   currency: 'Kroon',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 233
 };
 module.exports.EGP = {
@@ -512,19 +512,19 @@ module.exports.ERN = {
 module.exports.ESA = {
   alphabeticCode: 'ESA',
   currency: 'Spanish Peseta',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 996
 };
 module.exports.ESB = {
   alphabeticCode: 'ESB',
   currency: '"A" Account (convertible Peseta Account)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 995
 };
 module.exports.ESP = {
   alphabeticCode: 'ESP',
   currency: 'Spanish Peseta',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 724
 };
 module.exports.ETB = {
@@ -542,7 +542,7 @@ module.exports.EUR = {
 module.exports.FIM = {
   alphabeticCode: 'FIM',
   currency: 'Markka',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 246
 };
 module.exports.FJD = {
@@ -560,7 +560,7 @@ module.exports.FKP = {
 module.exports.FRF = {
   alphabeticCode: 'FRF',
   currency: 'French Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 250
 };
 module.exports.GBP = {
@@ -572,7 +572,7 @@ module.exports.GBP = {
 module.exports.GEK = {
   alphabeticCode: 'GEK',
   currency: 'Georgian Coupon',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 268
 };
 module.exports.GEL = {
@@ -584,13 +584,13 @@ module.exports.GEL = {
 module.exports.GHC = {
   alphabeticCode: 'GHC',
   currency: 'Cedi',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 288
 };
 module.exports.GHP = {
   alphabeticCode: 'GHP',
   currency: 'Ghana Cedi',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 939
 };
 module.exports.GHS = {
@@ -614,7 +614,7 @@ module.exports.GMD = {
 module.exports.GNE = {
   alphabeticCode: 'GNE',
   currency: 'Syli',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 324
 };
 module.exports.GNF = {
@@ -626,19 +626,19 @@ module.exports.GNF = {
 module.exports.GNS = {
   alphabeticCode: 'GNS',
   currency: 'Syli',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 324
 };
 module.exports.GQE = {
   alphabeticCode: 'GQE',
   currency: 'Ekwele',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 226
 };
 module.exports.GRD = {
   alphabeticCode: 'GRD',
   currency: 'Drachma',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 300
 };
 module.exports.GTQ = {
@@ -650,13 +650,13 @@ module.exports.GTQ = {
 module.exports.GWE = {
   alphabeticCode: 'GWE',
   currency: 'Guinea Escudo',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 624
 };
 module.exports.GWP = {
   alphabeticCode: 'GWP',
   currency: 'Guinea-Bissau Peso',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 624
 };
 module.exports.GYD = {
@@ -680,7 +680,7 @@ module.exports.HNL = {
 module.exports.HRD = {
   alphabeticCode: 'HRD',
   currency: 'Croatian Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 191
 };
 module.exports.HRK = {
@@ -710,19 +710,19 @@ module.exports.IDR = {
 module.exports.IEP = {
   alphabeticCode: 'IEP',
   currency: 'Irish Pound',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 372
 };
 module.exports.ILP = {
   alphabeticCode: 'ILP',
   currency: 'Pound',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 376
 };
 module.exports.ILR = {
   alphabeticCode: 'ILR',
   currency: 'Old Shekel',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 376
 };
 module.exports.ILS = {
@@ -752,7 +752,7 @@ module.exports.IRR = {
 module.exports.ISJ = {
   alphabeticCode: 'ISJ',
   currency: 'Old Krona',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 352
 };
 module.exports.ISK = {
@@ -764,7 +764,7 @@ module.exports.ISK = {
 module.exports.ITL = {
   alphabeticCode: 'ITL',
   currency: 'Italian Lira',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 380
 };
 module.exports.JMD = {
@@ -805,7 +805,7 @@ module.exports.KHR = {
 };
 module.exports.KMF = {
   alphabeticCode: 'KMF',
-  currency: 'Comorian Franc ',
+  currency: 'Comorian Franc',
   minorUnit: 0,
   numericCode: 174
 };
@@ -842,7 +842,7 @@ module.exports.KZT = {
 module.exports.LAJ = {
   alphabeticCode: 'LAJ',
   currency: 'Pathet Lao Kip',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 418
 };
 module.exports.LAK = {
@@ -878,49 +878,49 @@ module.exports.LSL = {
 module.exports.LSM = {
   alphabeticCode: 'LSM',
   currency: 'Loti',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 426
 };
 module.exports.LTL = {
   alphabeticCode: 'LTL',
   currency: 'Lithuanian Litas',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 440
 };
 module.exports.LTT = {
   alphabeticCode: 'LTT',
   currency: 'Talonas',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 440
 };
 module.exports.LUC = {
   alphabeticCode: 'LUC',
   currency: 'Luxembourg Convertible Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 989
 };
 module.exports.LUF = {
   alphabeticCode: 'LUF',
   currency: 'Luxembourg Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 442
 };
 module.exports.LUL = {
   alphabeticCode: 'LUL',
   currency: 'Luxembourg Financial Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 988
 };
 module.exports.LVL = {
   alphabeticCode: 'LVL',
   currency: 'Latvian Lats',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 428
 };
 module.exports.LVR = {
   alphabeticCode: 'LVR',
   currency: 'Latvian Ruble',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 428
 };
 module.exports.LYD = {
@@ -950,7 +950,7 @@ module.exports.MGA = {
 module.exports.MGF = {
   alphabeticCode: 'MGF',
   currency: 'Malagasy Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 450
 };
 module.exports.MKD = {
@@ -962,7 +962,7 @@ module.exports.MKD = {
 module.exports.MLF = {
   alphabeticCode: 'MLF',
   currency: 'Mali Franc',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 466
 };
 module.exports.MMK = {
@@ -986,7 +986,7 @@ module.exports.MOP = {
 module.exports.MRO = {
   alphabeticCode: 'MRO',
   currency: 'Ouguiya',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 478
 };
 module.exports.MRU = {
@@ -998,13 +998,13 @@ module.exports.MRU = {
 module.exports.MTL = {
   alphabeticCode: 'MTL',
   currency: 'Maltese Lira',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 470
 };
 module.exports.MTP = {
   alphabeticCode: 'MTP',
   currency: 'Maltese Pound',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 470
 };
 module.exports.MUR = {
@@ -1016,7 +1016,7 @@ module.exports.MUR = {
 module.exports.MVQ = {
   alphabeticCode: 'MVQ',
   currency: 'Maldive Rupee',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 462
 };
 module.exports.MVR = {
@@ -1040,7 +1040,7 @@ module.exports.MXN = {
 module.exports.MXP = {
   alphabeticCode: 'MXP',
   currency: 'Mexican Peso',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 484
 };
 module.exports.MXV = {
@@ -1058,13 +1058,13 @@ module.exports.MYR = {
 module.exports.MZE = {
   alphabeticCode: 'MZE',
   currency: 'Mozambique Escudo',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 508
 };
 module.exports.MZM = {
   alphabeticCode: 'MZM',
   currency: 'Mozambique Metical',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 508
 };
 module.exports.MZN = {
@@ -1088,7 +1088,7 @@ module.exports.NGN = {
 module.exports.NIC = {
   alphabeticCode: 'NIC',
   currency: 'Cordoba',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 558
 };
 module.exports.NIO = {
@@ -1100,7 +1100,7 @@ module.exports.NIO = {
 module.exports.NLG = {
   alphabeticCode: 'NLG',
   currency: 'Netherlands Guilder',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 528
 };
 module.exports.NOK = {
@@ -1136,13 +1136,13 @@ module.exports.PAB = {
 module.exports.PEH = {
   alphabeticCode: 'PEH',
   currency: 'Sol',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 604
 };
 module.exports.PEI = {
   alphabeticCode: 'PEI',
   currency: 'Inti',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 604
 };
 module.exports.PEN = {
@@ -1154,7 +1154,7 @@ module.exports.PEN = {
 module.exports.PES = {
   alphabeticCode: 'PES',
   currency: 'Sol',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 604
 };
 module.exports.PGK = {
@@ -1184,13 +1184,13 @@ module.exports.PLN = {
 module.exports.PLZ = {
   alphabeticCode: 'PLZ',
   currency: 'Zloty',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 616
 };
 module.exports.PTE = {
   alphabeticCode: 'PTE',
   currency: 'Portuguese Escudo',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 620
 };
 module.exports.PYG = {
@@ -1208,19 +1208,19 @@ module.exports.QAR = {
 module.exports.RHD = {
   alphabeticCode: 'RHD',
   currency: 'Rhodesian Dollar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 716
 };
 module.exports.ROK = {
   alphabeticCode: 'ROK',
   currency: 'Leu A/52',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 642
 };
 module.exports.ROL = {
   alphabeticCode: 'ROL',
   currency: 'Old Leu',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 642
 };
 module.exports.RON = {
@@ -1244,7 +1244,7 @@ module.exports.RUB = {
 module.exports.RUR = {
   alphabeticCode: 'RUR',
   currency: 'Russian Ruble',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 810
 };
 module.exports.RWF = {
@@ -1274,7 +1274,7 @@ module.exports.SCR = {
 module.exports.SDD = {
   alphabeticCode: 'SDD',
   currency: 'Sudanese Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 736
 };
 module.exports.SDG = {
@@ -1286,7 +1286,7 @@ module.exports.SDG = {
 module.exports.SDP = {
   alphabeticCode: 'SDP',
   currency: 'Sudanese Pound',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 736
 };
 module.exports.SEK = {
@@ -1310,13 +1310,13 @@ module.exports.SHP = {
 module.exports.SIT = {
   alphabeticCode: 'SIT',
   currency: 'Tolar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 705
 };
 module.exports.SKK = {
   alphabeticCode: 'SKK',
   currency: 'Slovak Koruna',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 703
 };
 module.exports.SLL = {
@@ -1340,7 +1340,7 @@ module.exports.SRD = {
 module.exports.SRG = {
   alphabeticCode: 'SRG',
   currency: 'Surinam Guilder',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 740
 };
 module.exports.SSP = {
@@ -1352,7 +1352,7 @@ module.exports.SSP = {
 module.exports.STD = {
   alphabeticCode: 'STD',
   currency: 'Dobra',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 678
 };
 module.exports.STN = {
@@ -1364,7 +1364,7 @@ module.exports.STN = {
 module.exports.SUR = {
   alphabeticCode: 'SUR',
   currency: 'Rouble',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 810
 };
 module.exports.SVC = {
@@ -1394,7 +1394,7 @@ module.exports.THB = {
 module.exports.TJR = {
   alphabeticCode: 'TJR',
   currency: 'Tajik Ruble',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 762
 };
 module.exports.TJS = {
@@ -1406,7 +1406,7 @@ module.exports.TJS = {
 module.exports.TMM = {
   alphabeticCode: 'TMM',
   currency: 'Turkmenistan Manat',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 795
 };
 module.exports.TMT = {
@@ -1430,13 +1430,13 @@ module.exports.TOP = {
 module.exports.TPE = {
   alphabeticCode: 'TPE',
   currency: 'Timor Escudo',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 626
 };
 module.exports.TRL = {
   alphabeticCode: 'TRL',
   currency: 'Old Turkish Lira',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 792
 };
 module.exports.TRY = {
@@ -1472,19 +1472,19 @@ module.exports.UAH = {
 module.exports.UAK = {
   alphabeticCode: 'UAK',
   currency: 'Karbovanet',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 804
 };
 module.exports.UGS = {
   alphabeticCode: 'UGS',
   currency: 'Uganda Shilling',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 800
 };
 module.exports.UGW = {
   alphabeticCode: 'UGW',
   currency: 'Old Shilling',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 800
 };
 module.exports.UGX = {
@@ -1508,7 +1508,7 @@ module.exports.USN = {
 module.exports.USS = {
   alphabeticCode: 'USS',
   currency: 'US Dollar (Same day)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 998
 };
 module.exports.UYI = {
@@ -1520,13 +1520,13 @@ module.exports.UYI = {
 module.exports.UYN = {
   alphabeticCode: 'UYN',
   currency: 'Old Uruguay Peso',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 858
 };
 module.exports.UYP = {
   alphabeticCode: 'UYP',
   currency: 'Uruguayan Peso',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 858
 };
 module.exports.UYU = {
@@ -1550,13 +1550,13 @@ module.exports.UZS = {
 module.exports.VEB = {
   alphabeticCode: 'VEB',
   currency: 'Bolivar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 862
 };
 module.exports.VEF = {
   alphabeticCode: 'VEF',
   currency: 'Bolívar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 937
 };
 module.exports.VES = {
@@ -1568,7 +1568,7 @@ module.exports.VES = {
 module.exports.VNC = {
   alphabeticCode: 'VNC',
   currency: 'Old Dong',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 704
 };
 module.exports.VND = {
@@ -1598,37 +1598,37 @@ module.exports.XAF = {
 module.exports.XAG = {
   alphabeticCode: 'XAG',
   currency: 'Silver',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 961
 };
 module.exports.XAU = {
   alphabeticCode: 'XAU',
   currency: 'Gold',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 959
 };
 module.exports.XBA = {
   alphabeticCode: 'XBA',
   currency: 'Bond Markets Unit European Composite Unit (EURCO)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 955
 };
 module.exports.XBB = {
   alphabeticCode: 'XBB',
   currency: 'Bond Markets Unit European Monetary Unit (E.M.U.-6)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 956
 };
 module.exports.XBC = {
   alphabeticCode: 'XBC',
   currency: 'Bond Markets Unit European Unit of Account 9 (E.U.A.-9)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 957
 };
 module.exports.XBD = {
   alphabeticCode: 'XBD',
   currency: 'Bond Markets Unit European Unit of Account 17 (E.U.A.-17)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 958
 };
 module.exports.XCD = {
@@ -1640,26 +1640,26 @@ module.exports.XCD = {
 module.exports.XDR = {
   alphabeticCode: 'XDR',
   currency: 'SDR (Special Drawing Right)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 960
 };
 module.exports.XEU = {
   alphabeticCode: 'XEU',
   currency: 'European Currency Unit (E.C.U)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 954
 };
 module.exports.XFO = {
   alphabeticCode: 'XFO',
   currency: 'Gold-Franc',
-  minorUnit: NaN,
-  numericCode: NaN
+  minorUnit: 0,
+  numericCode: 0
 };
 module.exports.XFU = {
   alphabeticCode: 'XFU',
   currency: 'UIC-Franc',
-  minorUnit: NaN,
-  numericCode: NaN
+  minorUnit: 0,
+  numericCode: 0
 };
 module.exports.XOF = {
   alphabeticCode: 'XOF',
@@ -1670,7 +1670,7 @@ module.exports.XOF = {
 module.exports.XPD = {
   alphabeticCode: 'XPD',
   currency: 'Palladium',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 964
 };
 module.exports.XPF = {
@@ -1682,43 +1682,43 @@ module.exports.XPF = {
 module.exports.XPT = {
   alphabeticCode: 'XPT',
   currency: 'Platinum',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 962
 };
 module.exports.XRE = {
   alphabeticCode: 'XRE',
   currency: 'RINET Funds Code',
-  minorUnit: NaN,
-  numericCode: NaN
+  minorUnit: 0,
+  numericCode: 0
 };
 module.exports.XSU = {
   alphabeticCode: 'XSU',
   currency: 'Sucre',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 994
 };
 module.exports.XTS = {
   alphabeticCode: 'XTS',
   currency: 'Codes specifically reserved for testing purposes',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 963
 };
 module.exports.XUA = {
   alphabeticCode: 'XUA',
   currency: 'ADB Unit of Account',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 965
 };
 module.exports.XXX = {
   alphabeticCode: 'XXX',
   currency: 'The codes assigned for transactions where no currency is involved',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 999
 };
 module.exports.YDD = {
   alphabeticCode: 'YDD',
   currency: 'Yemeni Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 720
 };
 module.exports.YER = {
@@ -1730,25 +1730,25 @@ module.exports.YER = {
 module.exports.YUD = {
   alphabeticCode: 'YUD',
   currency: 'New Yugoslavian Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 890
 };
 module.exports.YUM = {
   alphabeticCode: 'YUM',
   currency: 'New Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 891
 };
 module.exports.YUN = {
   alphabeticCode: 'YUN',
   currency: 'Yugoslavian Dinar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 890
 };
 module.exports.ZAL = {
   alphabeticCode: 'ZAL',
   currency: 'Financial Rand',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 991
 };
 module.exports.ZAR = {
@@ -1760,7 +1760,7 @@ module.exports.ZAR = {
 module.exports.ZMK = {
   alphabeticCode: 'ZMK',
   currency: 'Zambian Kwacha',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 894
 };
 module.exports.ZMW = {
@@ -1772,25 +1772,25 @@ module.exports.ZMW = {
 module.exports.ZRN = {
   alphabeticCode: 'ZRN',
   currency: 'New Zaire',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 180
 };
 module.exports.ZRZ = {
   alphabeticCode: 'ZRZ',
   currency: 'Zaire',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 180
 };
 module.exports.ZWC = {
   alphabeticCode: 'ZWC',
   currency: 'Rhodesian Dollar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 716
 };
 module.exports.ZWD = {
   alphabeticCode: 'ZWD',
   currency: 'Zimbabwe Dollar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 716
 };
 module.exports.ZWL = {
@@ -1802,12 +1802,12 @@ module.exports.ZWL = {
 module.exports.ZWN = {
   alphabeticCode: 'ZWN',
   currency: 'Zimbabwe Dollar (new)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 942
 };
 module.exports.ZWR = {
   alphabeticCode: 'ZWR',
   currency: 'Zimbabwe Dollar',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 935
 };

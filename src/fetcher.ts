@@ -92,15 +92,18 @@ export default class Fetcher {
 
     private *formatCurrencies(data: any[]): Generator<CurrencyData> {
         for (const datum of data) {
-            if (!datum.Ccy) {
+            if (typeof datum.Ccy !== "string" || datum.Ccy.length === 0) {
                 continue;
             }
 
+            const minorUnit = parseInt(datum.CcyMnrUnts);
+            const numericCode = parseInt(datum.CcyNbr);
+
             yield {
                 alphabeticCode: datum.Ccy,
-                currency: datum.CcyNm,
-                minorUnit: parseInt(datum.CcyMnrUnts),
-                numericCode: parseInt(datum.CcyNbr),
+                currency: String(datum.CcyNm).trim(),
+                minorUnit: isNaN(minorUnit) ? 0 : minorUnit,
+                numericCode: isNaN(numericCode) ? 0 : numericCode,
             };
         }
     }

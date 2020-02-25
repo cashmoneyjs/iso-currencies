@@ -457,7 +457,7 @@ module.exports.KHR = {
 };
 module.exports.KMF = {
   alphabeticCode: 'KMF',
-  currency: 'Comorian Franc ',
+  currency: 'Comorian Franc',
   minorUnit: 0,
   numericCode: 174
 };
@@ -956,37 +956,37 @@ module.exports.XAF = {
 module.exports.XAG = {
   alphabeticCode: 'XAG',
   currency: 'Silver',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 961
 };
 module.exports.XAU = {
   alphabeticCode: 'XAU',
   currency: 'Gold',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 959
 };
 module.exports.XBA = {
   alphabeticCode: 'XBA',
   currency: 'Bond Markets Unit European Composite Unit (EURCO)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 955
 };
 module.exports.XBB = {
   alphabeticCode: 'XBB',
   currency: 'Bond Markets Unit European Monetary Unit (E.M.U.-6)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 956
 };
 module.exports.XBC = {
   alphabeticCode: 'XBC',
   currency: 'Bond Markets Unit European Unit of Account 9 (E.U.A.-9)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 957
 };
 module.exports.XBD = {
   alphabeticCode: 'XBD',
   currency: 'Bond Markets Unit European Unit of Account 17 (E.U.A.-17)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 958
 };
 module.exports.XCD = {
@@ -998,7 +998,7 @@ module.exports.XCD = {
 module.exports.XDR = {
   alphabeticCode: 'XDR',
   currency: 'SDR (Special Drawing Right)',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 960
 };
 module.exports.XOF = {
@@ -1010,7 +1010,7 @@ module.exports.XOF = {
 module.exports.XPD = {
   alphabeticCode: 'XPD',
   currency: 'Palladium',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 964
 };
 module.exports.XPF = {
@@ -1022,31 +1022,31 @@ module.exports.XPF = {
 module.exports.XPT = {
   alphabeticCode: 'XPT',
   currency: 'Platinum',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 962
 };
 module.exports.XSU = {
   alphabeticCode: 'XSU',
   currency: 'Sucre',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 994
 };
 module.exports.XTS = {
   alphabeticCode: 'XTS',
   currency: 'Codes specifically reserved for testing purposes',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 963
 };
 module.exports.XUA = {
   alphabeticCode: 'XUA',
   currency: 'ADB Unit of Account',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 965
 };
 module.exports.XXX = {
   alphabeticCode: 'XXX',
   currency: 'The codes assigned for transactions where no currency is involved',
-  minorUnit: NaN,
+  minorUnit: 0,
   numericCode: 999
 };
 module.exports.YER = {
