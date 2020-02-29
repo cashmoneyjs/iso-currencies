@@ -1,13 +1,10 @@
-import fs from "fs";
-import { promisify } from "util";
+import { promises as fs } from "fs";
 
 import axios from "axios";
 import xml2js from "xml2js";
 
 import type { CurrencyData, CurrencyDataMap } from "@cashmoney/iso-currency-contracts";
 import type Serialiser from "./serialiser";
-
-const writeFile = promisify(fs.writeFile);
 
 export default class Fetcher {
     private currentCurrencies: CurrencyDataMap | null = null;
@@ -21,7 +18,7 @@ export default class Fetcher {
     public async saveCurrentCurrenciesTo(filename: string, serialiser: Serialiser) {
         await this.fetchEverything();
 
-        await writeFile(
+        await fs.writeFile(
             filename,
             serialiser.serialise(this.currentCurrencies as CurrencyDataMap)
         );
@@ -30,7 +27,7 @@ export default class Fetcher {
     public async saveHistoricCurrenciesTo(filename: string, serialiser: Serialiser) {
         await this.fetchEverything();
 
-        await writeFile(
+        await fs.writeFile(
             filename,
             serialiser.serialise(this.historicCurrencies as CurrencyDataMap)
         );
@@ -39,7 +36,7 @@ export default class Fetcher {
     public async saveAllCurrenciesTo(filename: string, serialiser: Serialiser) {
         await this.fetchEverything();
 
-        await writeFile(
+        await fs.writeFile(
             filename,
             serialiser.serialise(
                 Object.assign(
