@@ -1,7 +1,7 @@
 import { inspect } from "util";
 
 import type Serialiser from "../serialiser";
-import type { CurrencyData, CurrencyDataMap } from "../currencydata";
+import type { CurrencyData, CurrencyDataMap } from "@cashmoney/iso-currency-contracts";
 
 export default class EsModuleSerialiser implements Serialiser {
     public serialise(data: CurrencyDataMap): string {

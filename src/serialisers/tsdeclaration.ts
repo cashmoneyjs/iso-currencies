@@ -1,12 +1,7 @@
 import type Serialiser from "../serialiser";
-import type { CurrencyDataMap } from "../currencydata";
+import type { CurrencyDataMap } from "@cashmoney/iso-currency-contracts";
 
-const interfaceCode = `interface CurrencyData {
-    alphabeticCode: string;
-    currency: string;
-    minorUnit: number;
-    numericCode: number;
-}`;
+const interfaceCode = `import type { CurrencyData } from "@cashmoney/iso-currency-contracts";`;
 
 export default class TsDeclarationSerialiser implements Serialiser {
     public serialise(data: CurrencyDataMap): string {

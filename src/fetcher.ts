@@ -4,7 +4,7 @@ import { promisify } from "util";
 import axios from "axios";
 import xml2js from "xml2js";
 
-import type { CurrencyData, CurrencyDataMap } from "./currencydata";
+import type { CurrencyData, CurrencyDataMap } from "@cashmoney/iso-currency-contracts";
 import type Serialiser from "./serialiser";
 
 const writeFile = promisify(fs.writeFile);

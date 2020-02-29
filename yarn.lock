@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@cashmoney/iso-currency-contracts@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@cashmoney/iso-currency-contracts/-/iso-currency-contracts-1.0.0.tgz#147e1fec7b20ee669b5ceca086472da76f4b8ae7"
+  integrity sha512-FnMeZchFV53I8dXct32xg+mT5e7V90RwybeGgXJTSZAk6SnHhfKNJrV6thn726cwJRPSauG3K6EYWulNyfYxSA==
+
 "@types/node@*":
   version "13.7.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.1.tgz#238eb34a66431b71d2aaddeaa7db166f25971a0d"

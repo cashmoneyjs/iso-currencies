@@ -1,9 +1,4 @@
-interface CurrencyData {
-    alphabeticCode: string;
-    currency: string;
-    minorUnit: number;
-    numericCode: number;
-}
+import type { CurrencyData } from "@cashmoney/iso-currency-contracts";
 
 export declare var ADP: CurrencyData;
 export declare var AFA: CurrencyData;

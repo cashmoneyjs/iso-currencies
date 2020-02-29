@@ -1,5 +1,5 @@
 import type Serialiser from "../serialiser";
-import type { CurrencyDataMap } from "../currencydata";
+import type { CurrencyDataMap } from "@cashmoney/iso-currency-contracts";
 
 export default class JsonSerialiser implements Serialiser {
     public serialise(data: CurrencyDataMap): string {
