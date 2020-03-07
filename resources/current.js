@@ -1,1073 +1,1072 @@
-Object.defineProperty(exports, '__esModule', { value: true });
-module.exports.AED = {
+export const AED = {
   alphabeticCode: 'AED',
   currency: 'UAE Dirham',
   minorUnit: 2,
   numericCode: 784
 };
-module.exports.AFN = {
+export const AFN = {
   alphabeticCode: 'AFN',
   currency: 'Afghani',
   minorUnit: 2,
   numericCode: 971
 };
-module.exports.ALL = {
+export const ALL = {
   alphabeticCode: 'ALL',
   currency: 'Lek',
   minorUnit: 2,
   numericCode: 8
 };
-module.exports.AMD = {
+export const AMD = {
   alphabeticCode: 'AMD',
   currency: 'Armenian Dram',
   minorUnit: 2,
   numericCode: 51
 };
-module.exports.ANG = {
+export const ANG = {
   alphabeticCode: 'ANG',
   currency: 'Netherlands Antillean Guilder',
   minorUnit: 2,
   numericCode: 532
 };
-module.exports.AOA = {
+export const AOA = {
   alphabeticCode: 'AOA',
   currency: 'Kwanza',
   minorUnit: 2,
   numericCode: 973
 };
-module.exports.ARS = {
+export const ARS = {
   alphabeticCode: 'ARS',
   currency: 'Argentine Peso',
   minorUnit: 2,
   numericCode: 32
 };
-module.exports.AUD = {
+export const AUD = {
   alphabeticCode: 'AUD',
   currency: 'Australian Dollar',
   minorUnit: 2,
   numericCode: 36
 };
-module.exports.AWG = {
+export const AWG = {
   alphabeticCode: 'AWG',
   currency: 'Aruban Florin',
   minorUnit: 2,
   numericCode: 533
 };
-module.exports.AZN = {
+export const AZN = {
   alphabeticCode: 'AZN',
   currency: 'Azerbaijan Manat',
   minorUnit: 2,
   numericCode: 944
 };
-module.exports.BAM = {
+export const BAM = {
   alphabeticCode: 'BAM',
   currency: 'Convertible Mark',
   minorUnit: 2,
   numericCode: 977
 };
-module.exports.BBD = {
+export const BBD = {
   alphabeticCode: 'BBD',
   currency: 'Barbados Dollar',
   minorUnit: 2,
   numericCode: 52
 };
-module.exports.BDT = {
+export const BDT = {
   alphabeticCode: 'BDT',
   currency: 'Taka',
   minorUnit: 2,
   numericCode: 50
 };
-module.exports.BGN = {
+export const BGN = {
   alphabeticCode: 'BGN',
   currency: 'Bulgarian Lev',
   minorUnit: 2,
   numericCode: 975
 };
-module.exports.BHD = {
+export const BHD = {
   alphabeticCode: 'BHD',
   currency: 'Bahraini Dinar',
   minorUnit: 3,
   numericCode: 48
 };
-module.exports.BIF = {
+export const BIF = {
   alphabeticCode: 'BIF',
   currency: 'Burundi Franc',
   minorUnit: 0,
   numericCode: 108
 };
-module.exports.BMD = {
+export const BMD = {
   alphabeticCode: 'BMD',
   currency: 'Bermudian Dollar',
   minorUnit: 2,
   numericCode: 60
 };
-module.exports.BND = {
+export const BND = {
   alphabeticCode: 'BND',
   currency: 'Brunei Dollar',
   minorUnit: 2,
   numericCode: 96
 };
-module.exports.BOB = {
+export const BOB = {
   alphabeticCode: 'BOB',
   currency: 'Boliviano',
   minorUnit: 2,
   numericCode: 68
 };
-module.exports.BOV = {
+export const BOV = {
   alphabeticCode: 'BOV',
   currency: 'Mvdol',
   minorUnit: 2,
   numericCode: 984
 };
-module.exports.BRL = {
+export const BRL = {
   alphabeticCode: 'BRL',
   currency: 'Brazilian Real',
   minorUnit: 2,
   numericCode: 986
 };
-module.exports.BSD = {
+export const BSD = {
   alphabeticCode: 'BSD',
   currency: 'Bahamian Dollar',
   minorUnit: 2,
   numericCode: 44
 };
-module.exports.BTN = {
+export const BTN = {
   alphabeticCode: 'BTN',
   currency: 'Ngultrum',
   minorUnit: 2,
   numericCode: 64
 };
-module.exports.BWP = {
+export const BWP = {
   alphabeticCode: 'BWP',
   currency: 'Pula',
   minorUnit: 2,
   numericCode: 72
 };
-module.exports.BYN = {
+export const BYN = {
   alphabeticCode: 'BYN',
   currency: 'Belarusian Ruble',
   minorUnit: 2,
   numericCode: 933
 };
-module.exports.BZD = {
+export const BZD = {
   alphabeticCode: 'BZD',
   currency: 'Belize Dollar',
   minorUnit: 2,
   numericCode: 84
 };
-module.exports.CAD = {
+export const CAD = {
   alphabeticCode: 'CAD',
   currency: 'Canadian Dollar',
   minorUnit: 2,
   numericCode: 124
 };
-module.exports.CDF = {
+export const CDF = {
   alphabeticCode: 'CDF',
   currency: 'Congolese Franc',
   minorUnit: 2,
   numericCode: 976
 };
-module.exports.CHE = {
+export const CHE = {
   alphabeticCode: 'CHE',
   currency: 'WIR Euro',
   minorUnit: 2,
   numericCode: 947
 };
-module.exports.CHF = {
+export const CHF = {
   alphabeticCode: 'CHF',
   currency: 'Swiss Franc',
   minorUnit: 2,
   numericCode: 756
 };
-module.exports.CHW = {
+export const CHW = {
   alphabeticCode: 'CHW',
   currency: 'WIR Franc',
   minorUnit: 2,
   numericCode: 948
 };
-module.exports.CLF = {
+export const CLF = {
   alphabeticCode: 'CLF',
   currency: 'Unidad de Fomento',
   minorUnit: 4,
   numericCode: 990
 };
-module.exports.CLP = {
+export const CLP = {
   alphabeticCode: 'CLP',
   currency: 'Chilean Peso',
   minorUnit: 0,
   numericCode: 152
 };
-module.exports.CNY = {
+export const CNY = {
   alphabeticCode: 'CNY',
   currency: 'Yuan Renminbi',
   minorUnit: 2,
   numericCode: 156
 };
-module.exports.COP = {
+export const COP = {
   alphabeticCode: 'COP',
   currency: 'Colombian Peso',
   minorUnit: 2,
   numericCode: 170
 };
-module.exports.COU = {
+export const COU = {
   alphabeticCode: 'COU',
   currency: 'Unidad de Valor Real',
   minorUnit: 2,
   numericCode: 970
 };
-module.exports.CRC = {
+export const CRC = {
   alphabeticCode: 'CRC',
   currency: 'Costa Rican Colon',
   minorUnit: 2,
   numericCode: 188
 };
-module.exports.CUC = {
+export const CUC = {
   alphabeticCode: 'CUC',
   currency: 'Peso Convertible',
   minorUnit: 2,
   numericCode: 931
 };
-module.exports.CUP = {
+export const CUP = {
   alphabeticCode: 'CUP',
   currency: 'Cuban Peso',
   minorUnit: 2,
   numericCode: 192
 };
-module.exports.CVE = {
+export const CVE = {
   alphabeticCode: 'CVE',
   currency: 'Cabo Verde Escudo',
   minorUnit: 2,
   numericCode: 132
 };
-module.exports.CZK = {
+export const CZK = {
   alphabeticCode: 'CZK',
   currency: 'Czech Koruna',
   minorUnit: 2,
   numericCode: 203
 };
-module.exports.DJF = {
+export const DJF = {
   alphabeticCode: 'DJF',
   currency: 'Djibouti Franc',
   minorUnit: 0,
   numericCode: 262
 };
-module.exports.DKK = {
+export const DKK = {
   alphabeticCode: 'DKK',
   currency: 'Danish Krone',
   minorUnit: 2,
   numericCode: 208
 };
-module.exports.DOP = {
+export const DOP = {
   alphabeticCode: 'DOP',
   currency: 'Dominican Peso',
   minorUnit: 2,
   numericCode: 214
 };
-module.exports.DZD = {
+export const DZD = {
   alphabeticCode: 'DZD',
   currency: 'Algerian Dinar',
   minorUnit: 2,
   numericCode: 12
 };
-module.exports.EGP = {
+export const EGP = {
   alphabeticCode: 'EGP',
   currency: 'Egyptian Pound',
   minorUnit: 2,
   numericCode: 818
 };
-module.exports.ERN = {
+export const ERN = {
   alphabeticCode: 'ERN',
   currency: 'Nakfa',
   minorUnit: 2,
   numericCode: 232
 };
-module.exports.ETB = {
+export const ETB = {
   alphabeticCode: 'ETB',
   currency: 'Ethiopian Birr',
   minorUnit: 2,
   numericCode: 230
 };
-module.exports.EUR = {
+export const EUR = {
   alphabeticCode: 'EUR',
   currency: 'Euro',
   minorUnit: 2,
   numericCode: 978
 };
-module.exports.FJD = {
+export const FJD = {
   alphabeticCode: 'FJD',
   currency: 'Fiji Dollar',
   minorUnit: 2,
   numericCode: 242
 };
-module.exports.FKP = {
+export const FKP = {
   alphabeticCode: 'FKP',
   currency: 'Falkland Islands Pound',
   minorUnit: 2,
   numericCode: 238
 };
-module.exports.GBP = {
+export const GBP = {
   alphabeticCode: 'GBP',
   currency: 'Pound Sterling',
   minorUnit: 2,
   numericCode: 826
 };
-module.exports.GEL = {
+export const GEL = {
   alphabeticCode: 'GEL',
   currency: 'Lari',
   minorUnit: 2,
   numericCode: 981
 };
-module.exports.GHS = {
+export const GHS = {
   alphabeticCode: 'GHS',
   currency: 'Ghana Cedi',
   minorUnit: 2,
   numericCode: 936
 };
-module.exports.GIP = {
+export const GIP = {
   alphabeticCode: 'GIP',
   currency: 'Gibraltar Pound',
   minorUnit: 2,
   numericCode: 292
 };
-module.exports.GMD = {
+export const GMD = {
   alphabeticCode: 'GMD',
   currency: 'Dalasi',
   minorUnit: 2,
   numericCode: 270
 };
-module.exports.GNF = {
+export const GNF = {
   alphabeticCode: 'GNF',
   currency: 'Guinean Franc',
   minorUnit: 0,
   numericCode: 324
 };
-module.exports.GTQ = {
+export const GTQ = {
   alphabeticCode: 'GTQ',
   currency: 'Quetzal',
   minorUnit: 2,
   numericCode: 320
 };
-module.exports.GYD = {
+export const GYD = {
   alphabeticCode: 'GYD',
   currency: 'Guyana Dollar',
   minorUnit: 2,
   numericCode: 328
 };
-module.exports.HKD = {
+export const HKD = {
   alphabeticCode: 'HKD',
   currency: 'Hong Kong Dollar',
   minorUnit: 2,
   numericCode: 344
 };
-module.exports.HNL = {
+export const HNL = {
   alphabeticCode: 'HNL',
   currency: 'Lempira',
   minorUnit: 2,
   numericCode: 340
 };
-module.exports.HRK = {
+export const HRK = {
   alphabeticCode: 'HRK',
   currency: 'Kuna',
   minorUnit: 2,
   numericCode: 191
 };
-module.exports.HTG = {
+export const HTG = {
   alphabeticCode: 'HTG',
   currency: 'Gourde',
   minorUnit: 2,
   numericCode: 332
 };
-module.exports.HUF = {
+export const HUF = {
   alphabeticCode: 'HUF',
   currency: 'Forint',
   minorUnit: 2,
   numericCode: 348
 };
-module.exports.IDR = {
+export const IDR = {
   alphabeticCode: 'IDR',
   currency: 'Rupiah',
   minorUnit: 2,
   numericCode: 360
 };
-module.exports.ILS = {
+export const ILS = {
   alphabeticCode: 'ILS',
   currency: 'New Israeli Sheqel',
   minorUnit: 2,
   numericCode: 376
 };
-module.exports.INR = {
+export const INR = {
   alphabeticCode: 'INR',
   currency: 'Indian Rupee',
   minorUnit: 2,
   numericCode: 356
 };
-module.exports.IQD = {
+export const IQD = {
   alphabeticCode: 'IQD',
   currency: 'Iraqi Dinar',
   minorUnit: 3,
   numericCode: 368
 };
-module.exports.IRR = {
+export const IRR = {
   alphabeticCode: 'IRR',
   currency: 'Iranian Rial',
   minorUnit: 2,
   numericCode: 364
 };
-module.exports.ISK = {
+export const ISK = {
   alphabeticCode: 'ISK',
   currency: 'Iceland Krona',
   minorUnit: 0,
   numericCode: 352
 };
-module.exports.JMD = {
+export const JMD = {
   alphabeticCode: 'JMD',
   currency: 'Jamaican Dollar',
   minorUnit: 2,
   numericCode: 388
 };
-module.exports.JOD = {
+export const JOD = {
   alphabeticCode: 'JOD',
   currency: 'Jordanian Dinar',
   minorUnit: 3,
   numericCode: 400
 };
-module.exports.JPY = {
+export const JPY = {
   alphabeticCode: 'JPY',
   currency: 'Yen',
   minorUnit: 0,
   numericCode: 392
 };
-module.exports.KES = {
+export const KES = {
   alphabeticCode: 'KES',
   currency: 'Kenyan Shilling',
   minorUnit: 2,
   numericCode: 404
 };
-module.exports.KGS = {
+export const KGS = {
   alphabeticCode: 'KGS',
   currency: 'Som',
   minorUnit: 2,
   numericCode: 417
 };
-module.exports.KHR = {
+export const KHR = {
   alphabeticCode: 'KHR',
   currency: 'Riel',
   minorUnit: 2,
   numericCode: 116
 };
-module.exports.KMF = {
+export const KMF = {
   alphabeticCode: 'KMF',
   currency: 'Comorian Franc',
   minorUnit: 0,
   numericCode: 174
 };
-module.exports.KPW = {
+export const KPW = {
   alphabeticCode: 'KPW',
   currency: 'North Korean Won',
   minorUnit: 2,
   numericCode: 408
 };
-module.exports.KRW = {
+export const KRW = {
   alphabeticCode: 'KRW',
   currency: 'Won',
   minorUnit: 0,
   numericCode: 410
 };
-module.exports.KWD = {
+export const KWD = {
   alphabeticCode: 'KWD',
   currency: 'Kuwaiti Dinar',
   minorUnit: 3,
   numericCode: 414
 };
-module.exports.KYD = {
+export const KYD = {
   alphabeticCode: 'KYD',
   currency: 'Cayman Islands Dollar',
   minorUnit: 2,
   numericCode: 136
 };
-module.exports.KZT = {
+export const KZT = {
   alphabeticCode: 'KZT',
   currency: 'Tenge',
   minorUnit: 2,
   numericCode: 398
 };
-module.exports.LAK = {
+export const LAK = {
   alphabeticCode: 'LAK',
   currency: 'Lao Kip',
   minorUnit: 2,
   numericCode: 418
 };
-module.exports.LBP = {
+export const LBP = {
   alphabeticCode: 'LBP',
   currency: 'Lebanese Pound',
   minorUnit: 2,
   numericCode: 422
 };
-module.exports.LKR = {
+export const LKR = {
   alphabeticCode: 'LKR',
   currency: 'Sri Lanka Rupee',
   minorUnit: 2,
   numericCode: 144
 };
-module.exports.LRD = {
+export const LRD = {
   alphabeticCode: 'LRD',
   currency: 'Liberian Dollar',
   minorUnit: 2,
   numericCode: 430
 };
-module.exports.LSL = {
+export const LSL = {
   alphabeticCode: 'LSL',
   currency: 'Loti',
   minorUnit: 2,
   numericCode: 426
 };
-module.exports.LYD = {
+export const LYD = {
   alphabeticCode: 'LYD',
   currency: 'Libyan Dinar',
   minorUnit: 3,
   numericCode: 434
 };
-module.exports.MAD = {
+export const MAD = {
   alphabeticCode: 'MAD',
   currency: 'Moroccan Dirham',
   minorUnit: 2,
   numericCode: 504
 };
-module.exports.MDL = {
+export const MDL = {
   alphabeticCode: 'MDL',
   currency: 'Moldovan Leu',
   minorUnit: 2,
   numericCode: 498
 };
-module.exports.MGA = {
+export const MGA = {
   alphabeticCode: 'MGA',
   currency: 'Malagasy Ariary',
   minorUnit: 2,
   numericCode: 969
 };
-module.exports.MKD = {
+export const MKD = {
   alphabeticCode: 'MKD',
   currency: 'Denar',
   minorUnit: 2,
   numericCode: 807
 };
-module.exports.MMK = {
+export const MMK = {
   alphabeticCode: 'MMK',
   currency: 'Kyat',
   minorUnit: 2,
   numericCode: 104
 };
-module.exports.MNT = {
+export const MNT = {
   alphabeticCode: 'MNT',
   currency: 'Tugrik',
   minorUnit: 2,
   numericCode: 496
 };
-module.exports.MOP = {
+export const MOP = {
   alphabeticCode: 'MOP',
   currency: 'Pataca',
   minorUnit: 2,
   numericCode: 446
 };
-module.exports.MRU = {
+export const MRU = {
   alphabeticCode: 'MRU',
   currency: 'Ouguiya',
   minorUnit: 2,
   numericCode: 929
 };
-module.exports.MUR = {
+export const MUR = {
   alphabeticCode: 'MUR',
   currency: 'Mauritius Rupee',
   minorUnit: 2,
   numericCode: 480
 };
-module.exports.MVR = {
+export const MVR = {
   alphabeticCode: 'MVR',
   currency: 'Rufiyaa',
   minorUnit: 2,
   numericCode: 462
 };
-module.exports.MWK = {
+export const MWK = {
   alphabeticCode: 'MWK',
   currency: 'Malawi Kwacha',
   minorUnit: 2,
   numericCode: 454
 };
-module.exports.MXN = {
+export const MXN = {
   alphabeticCode: 'MXN',
   currency: 'Mexican Peso',
   minorUnit: 2,
   numericCode: 484
 };
-module.exports.MXV = {
+export const MXV = {
   alphabeticCode: 'MXV',
   currency: 'Mexican Unidad de Inversion (UDI)',
   minorUnit: 2,
   numericCode: 979
 };
-module.exports.MYR = {
+export const MYR = {
   alphabeticCode: 'MYR',
   currency: 'Malaysian Ringgit',
   minorUnit: 2,
   numericCode: 458
 };
-module.exports.MZN = {
+export const MZN = {
   alphabeticCode: 'MZN',
   currency: 'Mozambique Metical',
   minorUnit: 2,
   numericCode: 943
 };
-module.exports.NAD = {
+export const NAD = {
   alphabeticCode: 'NAD',
   currency: 'Namibia Dollar',
   minorUnit: 2,
   numericCode: 516
 };
-module.exports.NGN = {
+export const NGN = {
   alphabeticCode: 'NGN',
   currency: 'Naira',
   minorUnit: 2,
   numericCode: 566
 };
-module.exports.NIO = {
+export const NIO = {
   alphabeticCode: 'NIO',
   currency: 'Cordoba Oro',
   minorUnit: 2,
   numericCode: 558
 };
-module.exports.NOK = {
+export const NOK = {
   alphabeticCode: 'NOK',
   currency: 'Norwegian Krone',
   minorUnit: 2,
   numericCode: 578
 };
-module.exports.NPR = {
+export const NPR = {
   alphabeticCode: 'NPR',
   currency: 'Nepalese Rupee',
   minorUnit: 2,
   numericCode: 524
 };
-module.exports.NZD = {
+export const NZD = {
   alphabeticCode: 'NZD',
   currency: 'New Zealand Dollar',
   minorUnit: 2,
   numericCode: 554
 };
-module.exports.OMR = {
+export const OMR = {
   alphabeticCode: 'OMR',
   currency: 'Rial Omani',
   minorUnit: 3,
   numericCode: 512
 };
-module.exports.PAB = {
+export const PAB = {
   alphabeticCode: 'PAB',
   currency: 'Balboa',
   minorUnit: 2,
   numericCode: 590
 };
-module.exports.PEN = {
+export const PEN = {
   alphabeticCode: 'PEN',
   currency: 'Sol',
   minorUnit: 2,
   numericCode: 604
 };
-module.exports.PGK = {
+export const PGK = {
   alphabeticCode: 'PGK',
   currency: 'Kina',
   minorUnit: 2,
   numericCode: 598
 };
-module.exports.PHP = {
+export const PHP = {
   alphabeticCode: 'PHP',
   currency: 'Philippine Peso',
   minorUnit: 2,
   numericCode: 608
 };
-module.exports.PKR = {
+export const PKR = {
   alphabeticCode: 'PKR',
   currency: 'Pakistan Rupee',
   minorUnit: 2,
   numericCode: 586
 };
-module.exports.PLN = {
+export const PLN = {
   alphabeticCode: 'PLN',
   currency: 'Zloty',
   minorUnit: 2,
   numericCode: 985
 };
-module.exports.PYG = {
+export const PYG = {
   alphabeticCode: 'PYG',
   currency: 'Guarani',
   minorUnit: 0,
   numericCode: 600
 };
-module.exports.QAR = {
+export const QAR = {
   alphabeticCode: 'QAR',
   currency: 'Qatari Rial',
   minorUnit: 2,
   numericCode: 634
 };
-module.exports.RON = {
+export const RON = {
   alphabeticCode: 'RON',
   currency: 'Romanian Leu',
   minorUnit: 2,
   numericCode: 946
 };
-module.exports.RSD = {
+export const RSD = {
   alphabeticCode: 'RSD',
   currency: 'Serbian Dinar',
   minorUnit: 2,
   numericCode: 941
 };
-module.exports.RUB = {
+export const RUB = {
   alphabeticCode: 'RUB',
   currency: 'Russian Ruble',
   minorUnit: 2,
   numericCode: 643
 };
-module.exports.RWF = {
+export const RWF = {
   alphabeticCode: 'RWF',
   currency: 'Rwanda Franc',
   minorUnit: 0,
   numericCode: 646
 };
-module.exports.SAR = {
+export const SAR = {
   alphabeticCode: 'SAR',
   currency: 'Saudi Riyal',
   minorUnit: 2,
   numericCode: 682
 };
-module.exports.SBD = {
+export const SBD = {
   alphabeticCode: 'SBD',
   currency: 'Solomon Islands Dollar',
   minorUnit: 2,
   numericCode: 90
 };
-module.exports.SCR = {
+export const SCR = {
   alphabeticCode: 'SCR',
   currency: 'Seychelles Rupee',
   minorUnit: 2,
   numericCode: 690
 };
-module.exports.SDG = {
+export const SDG = {
   alphabeticCode: 'SDG',
   currency: 'Sudanese Pound',
   minorUnit: 2,
   numericCode: 938
 };
-module.exports.SEK = {
+export const SEK = {
   alphabeticCode: 'SEK',
   currency: 'Swedish Krona',
   minorUnit: 2,
   numericCode: 752
 };
-module.exports.SGD = {
+export const SGD = {
   alphabeticCode: 'SGD',
   currency: 'Singapore Dollar',
   minorUnit: 2,
   numericCode: 702
 };
-module.exports.SHP = {
+export const SHP = {
   alphabeticCode: 'SHP',
   currency: 'Saint Helena Pound',
   minorUnit: 2,
   numericCode: 654
 };
-module.exports.SLL = {
+export const SLL = {
   alphabeticCode: 'SLL',
   currency: 'Leone',
   minorUnit: 2,
   numericCode: 694
 };
-module.exports.SOS = {
+export const SOS = {
   alphabeticCode: 'SOS',
   currency: 'Somali Shilling',
   minorUnit: 2,
   numericCode: 706
 };
-module.exports.SRD = {
+export const SRD = {
   alphabeticCode: 'SRD',
   currency: 'Surinam Dollar',
   minorUnit: 2,
   numericCode: 968
 };
-module.exports.SSP = {
+export const SSP = {
   alphabeticCode: 'SSP',
   currency: 'South Sudanese Pound',
   minorUnit: 2,
   numericCode: 728
 };
-module.exports.STN = {
+export const STN = {
   alphabeticCode: 'STN',
   currency: 'Dobra',
   minorUnit: 2,
   numericCode: 930
 };
-module.exports.SVC = {
+export const SVC = {
   alphabeticCode: 'SVC',
   currency: 'El Salvador Colon',
   minorUnit: 2,
   numericCode: 222
 };
-module.exports.SYP = {
+export const SYP = {
   alphabeticCode: 'SYP',
   currency: 'Syrian Pound',
   minorUnit: 2,
   numericCode: 760
 };
-module.exports.SZL = {
+export const SZL = {
   alphabeticCode: 'SZL',
   currency: 'Lilangeni',
   minorUnit: 2,
   numericCode: 748
 };
-module.exports.THB = {
+export const THB = {
   alphabeticCode: 'THB',
   currency: 'Baht',
   minorUnit: 2,
   numericCode: 764
 };
-module.exports.TJS = {
+export const TJS = {
   alphabeticCode: 'TJS',
   currency: 'Somoni',
   minorUnit: 2,
   numericCode: 972
 };
-module.exports.TMT = {
+export const TMT = {
   alphabeticCode: 'TMT',
   currency: 'Turkmenistan New Manat',
   minorUnit: 2,
   numericCode: 934
 };
-module.exports.TND = {
+export const TND = {
   alphabeticCode: 'TND',
   currency: 'Tunisian Dinar',
   minorUnit: 3,
   numericCode: 788
 };
-module.exports.TOP = {
+export const TOP = {
   alphabeticCode: 'TOP',
   currency: 'Pa’anga',
   minorUnit: 2,
   numericCode: 776
 };
-module.exports.TRY = {
+export const TRY = {
   alphabeticCode: 'TRY',
   currency: 'Turkish Lira',
   minorUnit: 2,
   numericCode: 949
 };
-module.exports.TTD = {
+export const TTD = {
   alphabeticCode: 'TTD',
   currency: 'Trinidad and Tobago Dollar',
   minorUnit: 2,
   numericCode: 780
 };
-module.exports.TWD = {
+export const TWD = {
   alphabeticCode: 'TWD',
   currency: 'New Taiwan Dollar',
   minorUnit: 2,
   numericCode: 901
 };
-module.exports.TZS = {
+export const TZS = {
   alphabeticCode: 'TZS',
   currency: 'Tanzanian Shilling',
   minorUnit: 2,
   numericCode: 834
 };
-module.exports.UAH = {
+export const UAH = {
   alphabeticCode: 'UAH',
   currency: 'Hryvnia',
   minorUnit: 2,
   numericCode: 980
 };
-module.exports.UGX = {
+export const UGX = {
   alphabeticCode: 'UGX',
   currency: 'Uganda Shilling',
   minorUnit: 0,
   numericCode: 800
 };
-module.exports.USD = {
+export const USD = {
   alphabeticCode: 'USD',
   currency: 'US Dollar',
   minorUnit: 2,
   numericCode: 840
 };
-module.exports.USN = {
+export const USN = {
   alphabeticCode: 'USN',
   currency: 'US Dollar (Next day)',
   minorUnit: 2,
   numericCode: 997
 };
-module.exports.UYI = {
+export const UYI = {
   alphabeticCode: 'UYI',
   currency: 'Uruguay Peso en Unidades Indexadas (UI)',
   minorUnit: 0,
   numericCode: 940
 };
-module.exports.UYU = {
+export const UYU = {
   alphabeticCode: 'UYU',
   currency: 'Peso Uruguayo',
   minorUnit: 2,
   numericCode: 858
 };
-module.exports.UYW = {
+export const UYW = {
   alphabeticCode: 'UYW',
   currency: 'Unidad Previsional',
   minorUnit: 4,
   numericCode: 927
 };
-module.exports.UZS = {
+export const UZS = {
   alphabeticCode: 'UZS',
   currency: 'Uzbekistan Sum',
   minorUnit: 2,
   numericCode: 860
 };
-module.exports.VES = {
+export const VES = {
   alphabeticCode: 'VES',
   currency: 'Bolívar Soberano',
   minorUnit: 2,
   numericCode: 928
 };
-module.exports.VND = {
+export const VND = {
   alphabeticCode: 'VND',
   currency: 'Dong',
   minorUnit: 0,
   numericCode: 704
 };
-module.exports.VUV = {
+export const VUV = {
   alphabeticCode: 'VUV',
   currency: 'Vatu',
   minorUnit: 0,
   numericCode: 548
 };
-module.exports.WST = {
+export const WST = {
   alphabeticCode: 'WST',
   currency: 'Tala',
   minorUnit: 2,
   numericCode: 882
 };
-module.exports.XAF = {
+export const XAF = {
   alphabeticCode: 'XAF',
   currency: 'CFA Franc BEAC',
   minorUnit: 0,
   numericCode: 950
 };
-module.exports.XAG = {
+export const XAG = {
   alphabeticCode: 'XAG',
   currency: 'Silver',
   minorUnit: 0,
   numericCode: 961
 };
-module.exports.XAU = {
+export const XAU = {
   alphabeticCode: 'XAU',
   currency: 'Gold',
   minorUnit: 0,
   numericCode: 959
 };
-module.exports.XBA = {
+export const XBA = {
   alphabeticCode: 'XBA',
   currency: 'Bond Markets Unit European Composite Unit (EURCO)',
   minorUnit: 0,
   numericCode: 955
 };
-module.exports.XBB = {
+export const XBB = {
   alphabeticCode: 'XBB',
   currency: 'Bond Markets Unit European Monetary Unit (E.M.U.-6)',
   minorUnit: 0,
   numericCode: 956
 };
-module.exports.XBC = {
+export const XBC = {
   alphabeticCode: 'XBC',
   currency: 'Bond Markets Unit European Unit of Account 9 (E.U.A.-9)',
   minorUnit: 0,
   numericCode: 957
 };
-module.exports.XBD = {
+export const XBD = {
   alphabeticCode: 'XBD',
   currency: 'Bond Markets Unit European Unit of Account 17 (E.U.A.-17)',
   minorUnit: 0,
   numericCode: 958
 };
-module.exports.XCD = {
+export const XCD = {
   alphabeticCode: 'XCD',
   currency: 'East Caribbean Dollar',
   minorUnit: 2,
   numericCode: 951
 };
-module.exports.XDR = {
+export const XDR = {
   alphabeticCode: 'XDR',
   currency: 'SDR (Special Drawing Right)',
   minorUnit: 0,
   numericCode: 960
 };
-module.exports.XOF = {
+export const XOF = {
   alphabeticCode: 'XOF',
   currency: 'CFA Franc BCEAO',
   minorUnit: 0,
   numericCode: 952
 };
-module.exports.XPD = {
+export const XPD = {
   alphabeticCode: 'XPD',
   currency: 'Palladium',
   minorUnit: 0,
   numericCode: 964
 };
-module.exports.XPF = {
+export const XPF = {
   alphabeticCode: 'XPF',
   currency: 'CFP Franc',
   minorUnit: 0,
   numericCode: 953
 };
-module.exports.XPT = {
+export const XPT = {
   alphabeticCode: 'XPT',
   currency: 'Platinum',
   minorUnit: 0,
   numericCode: 962
 };
-module.exports.XSU = {
+export const XSU = {
   alphabeticCode: 'XSU',
   currency: 'Sucre',
   minorUnit: 0,
   numericCode: 994
 };
-module.exports.XTS = {
+export const XTS = {
   alphabeticCode: 'XTS',
   currency: 'Codes specifically reserved for testing purposes',
   minorUnit: 0,
   numericCode: 963
 };
-module.exports.XUA = {
+export const XUA = {
   alphabeticCode: 'XUA',
   currency: 'ADB Unit of Account',
   minorUnit: 0,
   numericCode: 965
 };
-module.exports.XXX = {
+export const XXX = {
   alphabeticCode: 'XXX',
   currency: 'The codes assigned for transactions where no currency is involved',
   minorUnit: 0,
   numericCode: 999
 };
-module.exports.YER = {
+export const YER = {
   alphabeticCode: 'YER',
   currency: 'Yemeni Rial',
   minorUnit: 2,
   numericCode: 886
 };
-module.exports.ZAR = {
+export const ZAR = {
   alphabeticCode: 'ZAR',
   currency: 'Rand',
   minorUnit: 2,
   numericCode: 710
 };
-module.exports.ZMW = {
+export const ZMW = {
   alphabeticCode: 'ZMW',
   currency: 'Zambian Kwacha',
   minorUnit: 2,
   numericCode: 967
 };
-module.exports.ZWL = {
+export const ZWL = {
   alphabeticCode: 'ZWL',
   currency: 'Zimbabwe Dollar',
   minorUnit: 2,

@@ -5,7 +5,7 @@ import type { CurrencyData, CurrencyDataMap } from "@cashmoney/iso-currency-cont
 
 export default class EsModuleSerialiser implements Serialiser {
     public serialise(data: CurrencyDataMap): string {
-        let formattedData = "Object.defineProperty(exports, '__esModule', { value: true });\n";
+        let formattedData = "";
 
         const currencyCodes = Object.keys(data);
         currencyCodes.sort();
@@ -17,6 +17,6 @@ export default class EsModuleSerialiser implements Serialiser {
     }
 
     private prepareCurrency(currency: CurrencyData): string {
-        return `module.exports.${currency.alphabeticCode} = ${inspect(currency)};` + "\n";
+        return `export const ${currency.alphabeticCode} = ${inspect(currency)};` + "\n";
     }
 }
