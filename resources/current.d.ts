@@ -154,6 +154,7 @@ export declare var UYI: CurrencyData;
 export declare var UYU: CurrencyData;
 export declare var UYW: CurrencyData;
 export declare var UZS: CurrencyData;
+export declare var VED: CurrencyData;
 export declare var VES: CurrencyData;
 export declare var VND: CurrencyData;
 export declare var VUV: CurrencyData;

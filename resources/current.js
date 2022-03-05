@@ -922,6 +922,12 @@ export const UZS = {
   minorUnit: 2,
   numericCode: 860
 };
+export const VED = {
+  alphabeticCode: 'VED',
+  currency: 'Bolívar Soberano',
+  minorUnit: 2,
+  numericCode: 926
+};
 export const VES = {
   alphabeticCode: 'VES',
   currency: 'Bolívar Soberano',

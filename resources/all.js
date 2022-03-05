@@ -1552,6 +1552,12 @@ export const VEB = {
   minorUnit: 0,
   numericCode: 862
 };
+export const VED = {
+  alphabeticCode: 'VED',
+  currency: 'Bolívar Soberano',
+  minorUnit: 2,
+  numericCode: 926
+};
 export const VEF = {
   alphabeticCode: 'VEF',
   currency: 'Bolívar',
