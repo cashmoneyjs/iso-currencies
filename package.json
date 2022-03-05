@@ -36,5 +36,6 @@
         "iso",
         "iso4217",
         "currencies"
-    ]
+    ],
+    "packageManager": "yarn@3.2.0"
 }
