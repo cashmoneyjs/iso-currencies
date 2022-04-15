@@ -64,7 +64,7 @@ historic.json
 
 ## Development notes
 
-To prepare a new update, run ``yarn run fetch-update`` in the root of the repository.
+To prepare a new update, run `yarn run fetch-update` in the root of the repository.
 
 ## Acknowledgements
 
